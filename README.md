@@ -21,8 +21,6 @@ not allowed to change the link speeds).
 configuration of the IP addresses and masks and/or the static routing
 tables. For each error, describe what the problem is, how you found it,
 the fix you applied, and how you can test that the fix works.
-After fixing the errors, you should be able to execute the command
-lynx www.fit9137 successfully. 
 
 3. The network currently has no gateway to the Internet. We want to make
 router R3 the gateway router. Add default routes to all other routers such
