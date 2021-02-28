@@ -1,0 +1,2 @@
+# Network-design-and-bug-fixing
+Network design and bug fixing on CORE simulator network. Tasks that were delivered successfully: Setting up static routing tables, Fixing bugs in the entire network, Setting up a gateway router and adding default routes, Adding a new DHCP router with extra subnets to the existing network, Implementing a Demilitarized Zone by implementing a firewall on the gateway router, protecting company's web server from remote-login (secure shell) Tools used: CORE simulator
