@@ -1,6 +1,13 @@
 # Network-design-and-bug-fixing
 Network design and bug fixing on CORE simulator network. Tasks that were delivered successfully: Setting up static routing tables, Fixing bugs in the entire network, Setting up a gateway router and adding default routes, Adding a new DHCP router with extra subnets to the existing network, Implementing a Demilitarized Zone by implementing a firewall on the gateway router, protecting company's web server from remote-login (secure shell) Tools used: CORE simulator
 
+# Requirements
+1. Ubuntu/Linux enviroment
+2. In order to run the .imn file, you should install CORE Emulator: 
+    - Follow the steps from this link to have it installed: https://www.brianlinkletter.com/installing-the-core-network-emulator-in-ubuntu-linux/
+3. Understand the basics of CORE Emulator: https://ilabxp.com/the-core-network-emulator/
+4. Open the .imn file navigating through CORE Emulator GUI
+
 
 # Tasks
 
